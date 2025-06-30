@@ -45,6 +45,8 @@
   z-index: 1;
 }
 .message.left {
+  font-size: 18px;
+  font-family: "Manrope";
   border-top-left-radius: 0px;
   border-bottom-left-radius: 0px;
   position: absolute;
@@ -53,12 +55,13 @@
   left: 0px;
 }
 .message.right {
+  font-size: 18px;
+  font-family: "Manrope";
   border-top-right-radius: 0px;
   border-bottom-right-radius: 0px;
   position: absolute;
   bottom: 15%;
   right: 0px;
-  font-family: "Manrope";
   padding-right: 60px;
 }
 /* 1047.62 */
